@@ -6,6 +6,18 @@ Ecommerce Fashion-House is a fully functional website with a beautiful user inte
 
 ### Work Under Progress
 
+The app is being under maintenance, as more work needs to be done.
+
+Current functionality includes:
+
+- Create an account or Sign In with Google
+- Sign In
+- Add items to cart
+- Remove item/items from cart
+- Responsive design
+- Load/Update data asynchronously using Firebase
+- Payments with Stripe (Testing Mode)
+
 ### Version 1 :
 * The data is stored locally and not on Firestore
 * GraphQL has not been used.
