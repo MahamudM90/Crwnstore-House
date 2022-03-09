@@ -1,7 +1,7 @@
 
 ## FASHION-HOUSE👚👖👔
 
-Ecommerce Fashion-House is a fully functional website with a beautiful user interface built with React, using Firebase and Stripe API 👔 👕 👚 👛 👜
+E-commerce Fashion-House is a fully functional website with a beautiful user interface built with React, using Firebase and Stripe API 👔 👕 👚 👛 👜
 
 
 ### Work Under Progress
