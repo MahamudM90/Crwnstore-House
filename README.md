@@ -142,5 +142,11 @@ Follow the following steps to get development environment running.
   ```
 ---
 
+## Future Updates
 
+- Enable PWA
+- Product Page
+- Improve overall UX/UI and fix bugs
+- Featured Products
+- Recently Viewed Products
 
