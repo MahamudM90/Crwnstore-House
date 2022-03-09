@@ -15,6 +15,15 @@ An E commerce platform made using React JS, Redux, Firebase (authentication), Fi
 
 The application is composed of the following Features:
 
+
+## Technologies
+
+1. React.js (Front-end)
+2. SASS and Styled Components (Styling)
+3. Redux and Redux Saga (State Management)
+5. Firebase (Database)
+6. Stripe API
+
 ### Front-End
 * A landing page with animated minimalistic design, with the major categories of items.
 * A quick peek page where 5 products of each categories are on display.
