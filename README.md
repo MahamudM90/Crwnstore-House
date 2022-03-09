@@ -1,6 +1,8 @@
 
 ## FASHION-HOUSE
 
+Ecommerce Fashion-House is a fully functional website with a beautiful user interface built with React, using Firebase and Stripe API 
+
 
 ### Work Under Progress
 
@@ -100,7 +102,7 @@ Follow the following steps to get development environment running.
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
+  git clone git@github.com:MahamudM90/FASHION-HOUSE.git
   ```
 
 * Install node modules
