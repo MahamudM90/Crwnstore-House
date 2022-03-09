@@ -149,4 +149,8 @@ Follow the following steps to get development environment running.
 - Improve overall UX/UI and fix bugs
 - Featured Products
 - Recently Viewed Products
+- 
+## Known Bugs
 
+Feel free to email me at mahamud01795@gmail.com if you run into any issues or have questions, ideas or concerns. Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
