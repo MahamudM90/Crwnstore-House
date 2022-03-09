@@ -88,7 +88,7 @@ Cart Section:
 * [SCSS](http://sass-lang.com/) - A css metalanguage
 
 ---
- ###    [Live Site](https://boighorss.vercel.app/?fbclid=IwAR3f1UHUDWg0-41u_pPRq8vSZSZVpnMLtsQ1u3CvYKDppGGCBV4HO2ea-dk)
+ ###    [Live Site](https://ak-clothing-attempt-two.herokuapp.com/)
 
 ## Getting Started
 
@@ -115,7 +115,7 @@ Follow the following steps to get development environment running.
 * Clone _'react-e-commerce-website.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
+  git clone https://github.com/MahamudM90/FASHION-HOUSE.git
   ```
 
    _OR USING SSH_
