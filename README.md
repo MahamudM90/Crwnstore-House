@@ -20,8 +20,6 @@ Current functionality includes:
 
 ### Version 1 :
 * The data is stored locally and not on Firestore
-* GraphQL has not been used.
-version 1 is hosted [HERE!](https://ak-clothing-attempt-two.herokuapp.com/)
 
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
