@@ -87,7 +87,7 @@ Cart Section:
 * [SCSS](http://sass-lang.com/) - A css metalanguage
 
 ---
- ###    [Live Site](https://ak-clothing-attempt-two.herokuapp.com/)
+ ###    [Live Site](https://crwn-live-preview.herokuapp.com/)
 
 ## Getting Started
 
