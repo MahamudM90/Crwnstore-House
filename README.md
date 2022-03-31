@@ -1,7 +1,7 @@
 
 ## CRWNFASHION-HOUSE👚👖👔
 
-E-Commerce Fashion-House is A Fully Functional Website With A Beautiful User Interface Built with React, Using Firebase And Stripe API 👔 👕 👚 👛 👜 
+E-Commerce Fashion-House Is A Fully Functional Website With A Beautiful User Interface Built with React, Using Firebase And Stripe API 👔 👕 👚 👛 👜 
 
 
 ### Work Under Progress
