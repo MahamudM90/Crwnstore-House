@@ -9,7 +9,7 @@ The App is Being under Maintenance, As more work needs to be done.
 
 Current Functionality includes:
 
-- Create an account or Sign In with Google
+- Create An account or Sign In with Google
 - Sign In
 - Add items to cart
 - Remove item/items from cart
