@@ -18,7 +18,7 @@ Current Functionality includes:
 - Payments with Stripe (Testing Mode)
 
 ### Version 1 :
-* The data is stored locally and not on Firestore
+* The data is Stored locally and not on Firestore
 
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
