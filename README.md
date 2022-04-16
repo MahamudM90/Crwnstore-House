@@ -5,7 +5,7 @@ E-Commerce Fashion-House Is A Fully Functional Website With A Beautiful User Int
 
 
 ### Work Under Progress
-The App is Being under Maintenance, As more Work needs to be Done.
+The App is Being under Maintenance, As more Work Needs to be Done.
 
 Current Functionality includes:
 
